@@ -27,7 +27,7 @@ O desafio consiste em implementar uma API que simule o provisionamento (_bloquei
 ### Requisitos
 
 * A API deve ser escrita em Go;
-* Escolha o framework http que mais se sentir confortável;
+* Escolha o framework http que mais se sentir confortável (ou talvez grpc);
 * Escolha o banco de dados relacional que mais se sentir confortável;
 * Docker compose para rodar o banco de dados e a API;
 * Documentar sua solução para que possamos entender como executá-la e testá-la;
@@ -54,5 +54,5 @@ O desafio consiste em implementar uma API que simule o provisionamento (_bloquei
 ### O que esperamos
 
 * Um repositório __privado__ no Github com o código da sua solução;
-* Adicionar o usuário @gandarez e @julioshinoda como colaborador do repositório;
+* Adicionar o usuário @gandarez como colaborador do repositório;
 * Um arquivo `README.md` com as instruções de como executar o projeto;
