@@ -54,5 +54,5 @@ O desafio consiste em implementar uma API que simule o provisionamento (_bloquei
 ### O que esperamos
 
 * Um repositório __privado__ no Github com o código da sua solução;
-* Adicionar o usuário @gandarez como colaborador do repositório;
+* Adicionar o usuário @gandarez e @GabrielFelix10 como colaborador do repositório;
 * Um arquivo `README.md` com as instruções de como executar o projeto;
